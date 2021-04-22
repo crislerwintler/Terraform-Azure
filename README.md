@@ -1,3 +1,7 @@
 # Terraform no Azure - Infraestrutura como código
+## Modelos de criação de recursos no Azure utilizando o Terraform
 
-1. [Criando Resource-Group](resource-group)
+<img src=".github\infraasacode.jpg" />
+
+1. [Resource-Group](resource-group)
+2. [Network Security Groups](network-security-groups)
