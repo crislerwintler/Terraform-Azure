@@ -3,5 +3,3 @@
 
 <img src=".github\infraasacode.jpg" />
 
-1. [Resource-Group](resource-group)
-2. [Network Security Groups](network-security-groups)
